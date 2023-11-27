@@ -1,5 +1,7 @@
  
-![photo de poisson](https://www.aquaportail.com/pictures2201/poisson-rouge-commun.jpg) # CV DE TROUDI PHILIPPE
+![photo de poisson](https://www.aquaportail.com/pictures2201/poisson-rouge-commun.jpg)
+
+# CV DE TROUDI PHILIPPE
 
 ## * Présentation
 en cours de formation Admin Reseau
@@ -39,3 +41,4 @@ _2008_ **CEAT BALMA**:
 
 ## * Hobbies
 
+~~C'est Perso~~
