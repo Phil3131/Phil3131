@@ -1,0 +1,10 @@
+   72  grep "Toulouse. *javascript" < wilders.csv > php_toulouse_java.csv
+   73  grep "Toulouse. *Javascript" < wilders.csv > php_toulouse_java.csv
+   74  grep "Toulouse. *Javascript" < wilders.csv > php_toulouse_java.csv
+   75  grep "Toulouse.*JavaScript" < wilders.csv > php_toulouse_java.csv
+   76  grep -i "biarritz.*JavaScript" < wilders.csv > php_biarritz_java.csv
+   77  cat php_toulouse_java.csv php_biarritz_java.csv > php_biarritz_tlse.csv
+   78  history
+   79  cat history | tail 10 >history.txt
+   80  history | tail 10 >history.txt
+   81  history | tail > history.txt
